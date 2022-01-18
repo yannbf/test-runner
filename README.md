@@ -1,6 +1,6 @@
 # Storybook Test Runner
 
-Storybook test runner turns all of your stories into executable tests.
+Storybook test runner turns all of your stories into executable tests
 
 ## Table of Contents
 
